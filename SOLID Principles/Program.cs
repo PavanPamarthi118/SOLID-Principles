@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
+// Ref - https://dotnettutorials.net/course/solid-design-principles/
 
 /*
 The SOLID Design Principles are used to manage most of the Software Design Problems we, as developers, generally encounter in our day-to-day programming. 
@@ -27,7 +28,6 @@ D -----> stands for Dependency Inversion Principle, also known as DIP. This Prin
 
 Applying the SOLID principles in our Application Development can make our application code more modular, easier to understand, and less error-prone when changes are made. 
 Applying these principles enables us to create software that is simple to maintain and expand and can adapt better to future changes.
-(https://dotnettutorials.net/course/solid-design-principles/)
  */
 
 // --------------------------------- Single Responsibility Principle (SRP)  --------------------------------- //
